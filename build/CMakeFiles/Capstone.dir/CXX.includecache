@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/workspace/UdacityCapstone/capstone_cmake/src/InputParser.cpp
+InputParser.h
+/home/workspace/UdacityCapstone/capstone_cmake/src/InputParser.h
+
+/home/workspace/UdacityCapstone/capstone_cmake/src/InputParser.h
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+utility
+-
+memory
+-
+algorithm
+-
+map
+-
+
