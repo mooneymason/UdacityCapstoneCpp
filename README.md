@@ -1,6 +1,4 @@
-Creator: Mason M. Mooney
-Contact: mooneym@battelle.org
-Organization: Battelle
+Creator: M. Mooney
 Program: Udacity's C++ Nanodegree
 Project: Capstone
 Date of Submission: 1/25/21
